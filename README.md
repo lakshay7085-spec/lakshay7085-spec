@@ -1,22 +1,52 @@
-┌──────────────────────────────────────────┐
-│       LAKSHAY GHANGHAS                   │
-│       Developer • Student • Builder      │
-│                                          │
-│  C++ • Java • C • Git • Problem Solving  │
-└──────────────────────────────────────────┘
+╔══════════════════════════════════════════════╗
 
-🚀 About Me
-💻 Currently learning Java & C++
-🎯 Improving DSA & problem solving
-🛠️ Building college & personal projects
+              👋 Hey, I'm Lakshay
 
-⚡ Tech Stack
-C | C++ | Java | Git | GitHub | SQL
+       🚀 BTech Student • Developer • Builder
 
-📌 Featured Projects
-→ Project 1
-→ Project 2
-→ Project 3
+   💻 Java    C++    C    SQL    Git    GitHub
 
-📊 GitHub Stats
-🔥 Streak | 📈 Contributions | ⭐ Repositories
+╚══════════════════════════════════════════════╝
+
+
+## 👨‍💻 About Me
+
+🎓 BTech Student
+💻 Passionate about Software Development
+🚀 Currently learning Java & improving C++
+🧠 Practicing Problem Solving & DSA
+🛠️ Building projects and learning by doing
+
+---
+
+## ⚡ Tech Stack
+
+💻 Languages
+C • C++ • Java
+
+🛠️ Tools
+Git • GitHub • VS Code
+
+📚 Currently Exploring
+Java • DSA • Software Development
+
+---
+
+## 🚀 Featured Projects
+
+🔹 Project Name
+   Short description
+
+🔹 Project Name
+   Short description
+
+🔹 Project Name
+   Short description
+
+---
+
+## 📊 GitHub
+
+🔥 Consistent learning  
+💻 Building projects  
+🚀 Improving every day
