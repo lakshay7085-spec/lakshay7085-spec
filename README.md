@@ -1,16 +1,22 @@
-## Hi there 👋
+┌──────────────────────────────────────────┐
+│       LAKSHAY GHANGHAS                   │
+│       Developer • Student • Builder      │
+│                                          │
+│  C++ • Java • C • Git • Problem Solving  │
+└──────────────────────────────────────────┘
 
-<!--
-**lakshay7085-spec/lakshay7085-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+💻 Currently learning Java & C++
+🎯 Improving DSA & problem solving
+🛠️ Building college & personal projects
 
-Here are some ideas to get you started:
+⚡ Tech Stack
+C | C++ | Java | Git | GitHub | SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Featured Projects
+→ Project 1
+→ Project 2
+→ Project 3
+
+📊 GitHub Stats
+🔥 Streak | 📈 Contributions | ⭐ Repositories
