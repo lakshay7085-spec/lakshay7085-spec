@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Lakshay Ghanghas
+# 👋 Hey, I'm Lakshay Kumar
 
 ### 💻 BTech Student • Aspiring Software Developer • Problem Solver
 
